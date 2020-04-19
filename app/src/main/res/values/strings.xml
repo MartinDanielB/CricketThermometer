@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cricket Temperature Thermometer</string>
+    <string name="mtID">asd</string>
+    <string name="mainText">Sabias que podes saber la temperatura contando las veces que canta un grillo? solo aprieta el contador y cuenta las veces que canta el grillo en 25 segundos</string>
+    <string name="mainimage">MainImage</string>
+    <string name="contador">Empieza el Contador!</string>
+    <string name="timer">25</string>
+</resources>
